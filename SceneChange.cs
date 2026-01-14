@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEditor.SceneManagement;
 
-public class Accelerator : MonoBehaviour
+public class SceneChange : MonoBehaviour
 {
 	public string sceneName;
 	
